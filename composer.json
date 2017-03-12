@@ -13,7 +13,7 @@
   "require": {
     "php": "^5.5|^7.0",
     "doctrine/dbal": "v2.5.4",
-    "league/oauth2-server": "^4.1.0"
+    "league/oauth2-server": "^4.1.0|^5.1.3"
   },
   "require-dev": {
     "phpunit/php-code-coverage": "^2.1.0",
